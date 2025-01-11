@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joakim Oscarsson
 - 👀 I’m interested in learning about different topics in programming. 
-- 🌱 I’m currently doing my master in computer science at Linköping university.
+- 🌱 I’m currently working with cyber security.
 - 📫 You can reach me at my email: oscarsson444@gmail.com or check out my LinkedIn: www.linkedin.com/in/joakim-oscarsson-5145a919b
 
 <!---
